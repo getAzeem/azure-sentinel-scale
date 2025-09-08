@@ -208,30 +208,9 @@ See `compliance/CHECKLIST.md` for:
 - [ ] Documentation complete
 - [ ] Backup procedures defined
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## ⚠️ Important Notes
-
-- **Security**: Never commit `terraform.tfvars` with secrets
-- **Cost**: Monitor auto-scaling to avoid unexpected charges
-- **Testing**: Always validate in non-production environment first
-- **Backups**: Implement proper backup strategies for production use
-
-## 📞 Support
-
-- [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
-- [Terraform Documentation](https://www.terraform.io/docs/)
-- [TFSec Documentation](https://github.com/aquasecurity/tfsec)
 - [Infracost Documentation](https://www.infracost.io/docs/)
 
 ---
